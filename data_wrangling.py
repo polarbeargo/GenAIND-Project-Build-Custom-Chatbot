@@ -29,11 +29,16 @@ def save_sample(df: pd.DataFrame, output_path: str) -> None:
 
 
 def main():
-    df = load_data(DATA_FILE_PATH)
+    file_path = 'data/nyc_food_scrap_drop_off_sites.csv'
+    with open(file_path, 'r') as file:
+        next(file)
+        lines = [line.strip() for line in file]
+
+    df = pd.DataFrame(lines, columns=["text"])
     df['text'] = df['text'].str.replace(r'^\d+,', '', regex=True)
     save_sample(df, SAMPLE_OUTPUT_PATH)
 
-    df = pd.read_csv('data/data_wrangling_sample.csv')
+    df = load_data('data/data_wrangling_sample.csv')
     # Generate embeddings
     df['embedding'] = df.text.apply(lambda x: generate_embeddings(x))
     df.to_csv(EMBEDDINGS_OUTPUT_PATH, index=False)
