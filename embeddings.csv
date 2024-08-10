@@ -1,5 +1,5 @@
-Unnamed: 0,text,embedding
-0,"Staten Island,Grasmere-Arrochar-South Beach-Dongan Hills,South Beach,""21 Robin Road, Staten Island NY"",Snug Harbor Youth,Year Round,Friday (Start Time: 1:30 PM - End Time:  4:30 PM),snug-harbor.org,502,50,40.595579,-74.062991,122,3842,""{'type': 'Point', 'coordinates': [-74.062991, 40.595579]}"",1.0,14.0,76.0,10692.0,30.0,,,,","[-3.98153216e-02 -4.14079800e-02  5.66049144e-02 -1.21293366e-01
+text,embedding
+"Staten Island,Grasmere-Arrochar-South Beach-Dongan Hills,South Beach,""21 Robin Road, Staten Island NY"",Snug Harbor Youth,Year Round,Friday (Start Time: 1:30 PM - End Time:  4:30 PM),snug-harbor.org,502,50,40.595579,-74.062991,122,3842,""{'type': 'Point', 'coordinates': [-74.062991, 40.595579]}"",1.0,14.0,76.0,10692.0,30.0,,,,","[-3.98153216e-02 -4.14079800e-02  5.66049144e-02 -1.21293366e-01
  -1.28646135e-01  4.99514528e-02  3.08665544e-01 -7.54481554e-02
  -6.96142316e-02 -4.75904867e-02  7.22308606e-02 -1.76881284e-01
   4.38207507e-01  1.38961926e-01 -2.67585993e-01  3.99898700e-02
@@ -95,7 +95,7 @@ Unnamed: 0,text,embedding
   1.60857558e-01 -7.82197155e-03  1.69985697e-01  3.73959124e-01
   1.23699844e-01 -1.18571326e-01 -9.42749809e-03  2.09469870e-01
  -1.15742534e-01 -1.27934009e-01 -7.32760608e-01  4.46963310e-03]"
-1,"Manhattan,Inwood,SE Corner of Broadway & Academy Street,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,112,10,,,34,3573,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 0.13020103 -0.13104136 -0.2690476  -0.2356363   0.06409236 -0.16827282
+"Manhattan,Inwood,SE Corner of Broadway & Academy Street,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,112,10,,,34,3573,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 0.13020103 -0.13104136 -0.2690476  -0.2356363   0.06409236 -0.16827282
   0.25275943 -0.22436386 -0.01830813  0.08667352  0.2831742  -0.19414404
   0.11831982  0.23486285 -0.28730282 -0.11939368  0.12275004 -0.1513846
  -0.15094355  0.2612125   0.18074846  0.23535088 -0.05402404  0.09513709
@@ -159,7 +159,7 @@ Unnamed: 0,text,embedding
  -0.20321265  0.37612298  0.03146757 -0.13869989 -0.28309947 -0.3150045
   0.3596602   0.2667727   0.3241786   0.09940443  0.27724898 -0.4131193
   0.46331266  0.13338478 -0.12783834 -0.144272   -0.11158204 -0.04540679]"
-2,"Brooklyn,Park Slope,Old Stone House Brooklyn,""336 3rd St, Brooklyn, NY 11215"",Old Stone House Brooklyn,Year Round,24/7 (Start Time: 24/7 - End Time:  24/7),,306,39,40.6727118,-73.984731,78,3555,""{'type': 'Point', 'coordinates': [-73.984731, 40.6727118]}"",2.0,27.0,50.0,17617.0,14.0,,,,","[-0.00706969  0.02325399 -0.0220314   0.03628257 -0.3484178  -0.3264609
+"Brooklyn,Park Slope,Old Stone House Brooklyn,""336 3rd St, Brooklyn, NY 11215"",Old Stone House Brooklyn,Year Round,24/7 (Start Time: 24/7 - End Time:  24/7),,306,39,40.6727118,-73.984731,78,3555,""{'type': 'Point', 'coordinates': [-73.984731, 40.6727118]}"",2.0,27.0,50.0,17617.0,14.0,,,,","[-0.00706969  0.02325399 -0.0220314   0.03628257 -0.3484178  -0.3264609
   0.06549121 -0.25915012  0.01730247 -0.03480996 -0.0938053   0.07613651
   0.20749272 -0.08991586 -0.23085538  0.22418353 -0.25690234 -0.18304253
   0.10476623  0.38386953  0.07289856  0.09470007 -0.06805924  0.2684378
@@ -223,7 +223,7 @@ Unnamed: 0,text,embedding
  -0.16249579 -0.08772294 -0.04987296 -0.22766465  0.13052991  0.10473812
   0.38532737 -0.09928676  0.166179    0.17328137 -0.0996934   0.01974187
  -0.01254545 -0.14823626  0.00194427 -0.12414914 -0.6141093  -0.26379582]"
-3,"Manhattan,East Harlem (North),SE Corner of Pleasant Avenue & E 116 Street,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,111,8,,,25,3438,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 1.58163443e-01 -9.84401628e-02 -2.88609684e-01 -3.62458318e-01
+"Manhattan,East Harlem (North),SE Corner of Pleasant Avenue & E 116 Street,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,111,8,,,25,3438,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 1.58163443e-01 -9.84401628e-02 -2.88609684e-01 -3.62458318e-01
  -9.92749706e-02 -1.05439715e-01  2.90088832e-01 -2.23608464e-01
  -4.50517759e-02  7.94054717e-02  2.61445433e-01 -1.61434099e-01
   2.47270182e-01  1.81699097e-01 -1.66248813e-01 -1.25121683e-01
@@ -319,7 +319,7 @@ Unnamed: 0,text,embedding
   3.12701821e-01  3.06436479e-01  3.03664804e-01  1.23859994e-01
   1.96069151e-01 -4.68409687e-01  4.89702016e-01  1.39037117e-01
  -1.68256283e-01 -1.30658746e-01 -2.17425391e-01 -4.56719249e-02]"
-4,"Queens,Corona,Malcolm X FSDO,""111-26 Northern Blvd, Flushing, NY 11368"",NYC Compost Project Hosted by Big Reuse,Year Round,Tuesdays (Start Time: 12:00 PM - End Time:  2:00 PM),,404,21,40.7496855,-73.8630721,110,3388,""{'type': 'Point', 'coordinates': [-73.8630721, 40.7496855]}"",3.0,21.0,68.0,14510.0,66.0,,,,","[-0.22042143 -0.17215516 -0.04905648 -0.030325   -0.07562888 -0.20990089
+"Queens,Corona,Malcolm X FSDO,""111-26 Northern Blvd, Flushing, NY 11368"",NYC Compost Project Hosted by Big Reuse,Year Round,Tuesdays (Start Time: 12:00 PM - End Time:  2:00 PM),,404,21,40.7496855,-73.8630721,110,3388,""{'type': 'Point', 'coordinates': [-73.8630721, 40.7496855]}"",3.0,21.0,68.0,14510.0,66.0,,,,","[-0.22042143 -0.17215516 -0.04905648 -0.030325   -0.07562888 -0.20990089
  -0.07067836 -0.00137929 -0.18944341  0.23789458 -0.18174995 -0.07191259
  -0.1086102   0.02886928 -0.37602353 -0.05476659 -0.2143072  -0.27988684
   0.06410068  0.08805542  0.12755811  0.09518884 -0.18672977  0.18445027
@@ -383,7 +383,7 @@ Unnamed: 0,text,embedding
  -0.18627992  0.1312983   0.00184007 -0.14680268 -0.04024304 -0.05043549
   0.22053272  0.01785477  0.03931535 -0.24595277  0.00866505  0.25989988
   0.07314357 -0.13799769  0.01151908 -0.09194353 -0.4564976  -0.09883031]"
-5,"Queens,Astoria (North)-Ditmars-Steinway,Astoria Pug: 41st Street,Ditmars Boulevard and 41st Street,Astoria Pug,Year Round,Mondays (Start Time: 8:00 AM - End Time:  2:00 PM),https://www.instagram.com/astoriapug/?hl=en,401,22,40.7724122,-73.9053388,114,3350,""{'type': 'Point', 'coordinates': [-73.9053388, 40.7724122]}"",3.0,4.0,72.0,16862.0,39.0,""Not accepted: meat, bones, or dairy"",119.0,,","[ 2.21950561e-01 -2.25336999e-01  1.15746848e-01  3.89340281e-01
+"Queens,Astoria (North)-Ditmars-Steinway,Astoria Pug: 41st Street,Ditmars Boulevard and 41st Street,Astoria Pug,Year Round,Mondays (Start Time: 8:00 AM - End Time:  2:00 PM),https://www.instagram.com/astoriapug/?hl=en,401,22,40.7724122,-73.9053388,114,3350,""{'type': 'Point', 'coordinates': [-73.9053388, 40.7724122]}"",3.0,4.0,72.0,16862.0,39.0,""Not accepted: meat, bones, or dairy"",119.0,,","[ 2.21950561e-01 -2.25336999e-01  1.15746848e-01  3.89340281e-01
  -1.29582420e-01 -3.34731936e-01 -8.99481177e-02 -3.11623007e-01
   1.01107806e-01 -4.70801070e-02 -2.81021819e-02  2.14926034e-01
  -2.02436090e-01  3.04190516e-02 -2.81378329e-01  1.03534251e-01
@@ -479,7 +479,7 @@ Unnamed: 0,text,embedding
   3.36536348e-01  8.56075585e-02 -2.70997044e-02 -3.63366008e-01
  -1.41278565e-01  1.34411037e-01  1.01452589e-01 -3.74571979e-02
   3.70721102e-01  2.66704131e-02 -5.14206409e-01 -1.25057459e-01]"
-6,"Bronx,Norwood,SE Corner of Kings College Place & Gun Hill Rd.,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,207,11,,,52,3773,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 1.86870575e-01 -7.21529201e-02 -3.89268279e-01 -2.57280737e-01
+"Bronx,Norwood,SE Corner of Kings College Place & Gun Hill Rd.,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,207,11,,,52,3773,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 1.86870575e-01 -7.21529201e-02 -3.89268279e-01 -2.57280737e-01
  -1.11143574e-01 -1.55168176e-01  2.70212740e-01 -1.44907743e-01
  -4.15365025e-02  1.30829634e-04  2.15996593e-01 -1.39085189e-01
   2.05837190e-01  8.51332396e-02 -2.24206537e-01 -1.68039143e-01
@@ -575,7 +575,7 @@ Unnamed: 0,text,embedding
   2.45499596e-01  1.70831606e-01  3.78485292e-01  1.61894351e-01
   3.71144176e-01 -4.39415336e-01  3.78118902e-01  2.04573534e-02
  -2.30000407e-01 -7.44774491e-02 -2.12580815e-01 -2.20480993e-01]"
-7,"Brooklyn,Bedford-Stuyvesant (East),NW Corner of Malcolm X Boulevard & Bainbridge Street,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,303,36,,,81,3477,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 0.07292426 -0.07533903 -0.23795696 -0.3009972  -0.00447652 -0.18438786
+"Brooklyn,Bedford-Stuyvesant (East),NW Corner of Malcolm X Boulevard & Bainbridge Street,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,303,36,,,81,3477,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 0.07292426 -0.07533903 -0.23795696 -0.3009972  -0.00447652 -0.18438786
   0.37442935 -0.25670934 -0.08127535  0.00376668  0.2157504  -0.04336582
   0.2089484   0.15774325 -0.25133264 -0.10792137  0.10696131 -0.17052877
  -0.13808413  0.34013954  0.15404001  0.07680776  0.03463282  0.01210499
@@ -639,7 +639,7 @@ Unnamed: 0,text,embedding
  -0.10571026  0.30933416  0.09757191 -0.08417963 -0.22535622 -0.25792113
   0.27797416  0.32596803  0.30634353  0.17793477  0.1892573  -0.3311015
   0.41370785  0.0724812  -0.16707617 -0.11791017 -0.20992279 -0.09262515]"
-8,"Queens,Astoria (Central),Astoria Pug: Broadway,""32-11 31st St, Queens, NY 11106"",Astoria Pug,Year Round,Saturdays (Start Time: 9:00 AM - End Time:  3:00 PM),https://www.instagram.com/astoriapug/?hl=en,401,22,40.761472,-73.925611,114,3304,""{'type': 'Point', 'coordinates': [-73.925611, 40.761472]}"",3.0,4.0,72.0,16863.0,39.0,""Not accepted: meat, bones, or dairy"",,,","[ 0.03607349 -0.27912164  0.10516825  0.38575107 -0.30958164 -0.24393468
+"Queens,Astoria (Central),Astoria Pug: Broadway,""32-11 31st St, Queens, NY 11106"",Astoria Pug,Year Round,Saturdays (Start Time: 9:00 AM - End Time:  3:00 PM),https://www.instagram.com/astoriapug/?hl=en,401,22,40.761472,-73.925611,114,3304,""{'type': 'Point', 'coordinates': [-73.925611, 40.761472]}"",3.0,4.0,72.0,16863.0,39.0,""Not accepted: meat, bones, or dairy"",,,","[ 0.03607349 -0.27912164  0.10516825  0.38575107 -0.30958164 -0.24393468
  -0.11710718 -0.18852088  0.10407776 -0.12685417  0.02936416  0.13388515
  -0.17025188 -0.17029285 -0.3320292  -0.07407023  0.09229761 -0.1907921
   0.02115053  0.19782531  0.32673144 -0.3312981  -0.18740693  0.4066053
@@ -703,7 +703,7 @@ Unnamed: 0,text,embedding
   0.1710288  -0.0766216   0.08784696 -0.26793838 -0.26490882 -0.12537475
   0.17147297 -0.08829466  0.18234964 -0.4683314  -0.15918246  0.19672695
   0.01063191 -0.00593552  0.29955935 -0.03164452 -0.5261079  -0.1010054 ]"
-9,"Bronx,Mount Eden-Claremont (West),SE Corner of Eastburn Avenue & East 174th Street,SE Eastburn Avenue & East 174th Street,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,204,15,40.84471862,-73.90847526,44,3704,""{'type': 'Point', 'coordinates': [-73.90847526, 40.84471862]}"",5.0,22.0,27.0,10935.0,50.0,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 3.10762189e-02 -3.18963945e-01  1.32767856e-03 -2.72981264e-03
+"Bronx,Mount Eden-Claremont (West),SE Corner of Eastburn Avenue & East 174th Street,SE Eastburn Avenue & East 174th Street,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,204,15,40.84471862,-73.90847526,44,3704,""{'type': 'Point', 'coordinates': [-73.90847526, 40.84471862]}"",5.0,22.0,27.0,10935.0,50.0,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 3.10762189e-02 -3.18963945e-01  1.32767856e-03 -2.72981264e-03
  -3.03392172e-01 -3.25920761e-01  4.71328944e-02 -2.74726689e-01
  -2.04821557e-01 -1.64341647e-02  2.49363303e-01 -5.91722578e-02
   5.19809052e-02  1.23258531e-01 -2.78225005e-01  2.29939908e-01
@@ -799,7 +799,7 @@ Unnamed: 0,text,embedding
   3.02223265e-01  1.15713045e-01  3.76690179e-03 -1.62317574e-01
  -5.70818968e-03 -1.45395771e-01  8.98206905e-02  6.95420653e-02
  -1.44518137e-01  3.29623111e-02 -2.89340794e-01 -2.12585151e-01]"
-10,"Bronx,Fordham Heights,SE Corner of Field Place & Morris Avenue,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,205,14,,,46,3741,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 0.14227733 -0.07644685 -0.28450698 -0.3556802   0.04073932 -0.27465248
+"Bronx,Fordham Heights,SE Corner of Field Place & Morris Avenue,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,205,14,,,46,3741,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 0.14227733 -0.07644685 -0.28450698 -0.3556802   0.04073932 -0.27465248
   0.19225226 -0.20720583 -0.07982405  0.08314431  0.25956982 -0.18386756
   0.13965058  0.23410113 -0.2903933  -0.1085879   0.05191629 -0.04438068
  -0.09925105  0.30171174  0.22317484  0.17740825 -0.14947791  0.05587191
@@ -863,7 +863,7 @@ Unnamed: 0,text,embedding
  -0.14973272  0.34883636  0.04688835 -0.08918674 -0.25819284 -0.29681793
   0.27741948  0.28122774  0.2593748   0.1180524   0.3179031  -0.47314945
   0.46995914  0.09983087 -0.19221476 -0.06585434 -0.10185795 -0.09158993]"
-11,"Queens,Queensbridge-Ravenswood-Dutch Kills,Commuter Composting at 21 St-Queensbridge F,NW Corner of 21st street at 41st Ave,NYC Compost Project Hosted by Big Reuse,Year Round,Tuesdays (Start Time: 8:00 AM - End Time:  10:00 AM),,401,26,40.7536858,-73.9422838,114,3363,""{'type': 'Point', 'coordinates': [-73.9422838, 40.7536858]}"",3.0,33.0,72.0,16858.0,39.0,""Not accepted: meat, bones, or dairy"",,,","[ 1.21536806e-01 -2.51470983e-01  1.83085687e-02 -1.12292022e-01
+"Queens,Queensbridge-Ravenswood-Dutch Kills,Commuter Composting at 21 St-Queensbridge F,NW Corner of 21st street at 41st Ave,NYC Compost Project Hosted by Big Reuse,Year Round,Tuesdays (Start Time: 8:00 AM - End Time:  10:00 AM),,401,26,40.7536858,-73.9422838,114,3363,""{'type': 'Point', 'coordinates': [-73.9422838, 40.7536858]}"",3.0,33.0,72.0,16858.0,39.0,""Not accepted: meat, bones, or dairy"",,,","[ 1.21536806e-01 -2.51470983e-01  1.83085687e-02 -1.12292022e-01
   1.86687320e-01 -2.13404089e-01  6.76301196e-02  6.55141324e-02
  -1.86062440e-01  2.62871444e-01 -2.21188694e-01  4.64467779e-02
  -7.25039989e-02  1.19157039e-01 -3.28658104e-01 -1.00964412e-01
@@ -959,7 +959,7 @@ Unnamed: 0,text,embedding
   5.78335762e-01  3.72714758e-01 -1.41944915e-01 -2.57300407e-01
   8.70855898e-02  1.22651853e-01  2.59415545e-02 -7.62468949e-03
  -3.49870846e-02 -1.11388154e-02 -2.35005796e-01 -3.25280428e-02]"
-12,"Brooklyn,Crown Heights (North),Walt L Shamel Community Garden,""1097 Dean St, Brooklyn, NY 11216"",Volunteers at Walt L Shamel Community Garden,End of March - January 30,Saturdays and Sundays (Start Time: 12:00 PM - End Time:  2:00 PM),https://www.facebook.com/WaltLShamelCommunityGarden/,308,35,40.67744,-73.953657,77,3495,""{'type': 'Point', 'coordinates': [-73.953657, 40.67744]}"",2.0,48.0,49.0,17618.0,16.0,""Not accepted: meat, bones, or dairy"",,,","[ 6.69439360e-02  8.57010633e-02  1.90572888e-01  8.38976204e-02
+"Brooklyn,Crown Heights (North),Walt L Shamel Community Garden,""1097 Dean St, Brooklyn, NY 11216"",Volunteers at Walt L Shamel Community Garden,End of March - January 30,Saturdays and Sundays (Start Time: 12:00 PM - End Time:  2:00 PM),https://www.facebook.com/WaltLShamelCommunityGarden/,308,35,40.67744,-73.953657,77,3495,""{'type': 'Point', 'coordinates': [-73.953657, 40.67744]}"",2.0,48.0,49.0,17618.0,16.0,""Not accepted: meat, bones, or dairy"",,,","[ 6.69439360e-02  8.57010633e-02  1.90572888e-01  8.38976204e-02
  -8.47776830e-02 -2.00495869e-02 -7.13148527e-03 -1.13370210e-01
  -1.24445498e-01  1.64131761e-01 -6.46409094e-02  2.85423249e-02
  -1.74820304e-01  1.56279191e-01 -1.28546566e-01  6.81468099e-02
@@ -1055,7 +1055,7 @@ Unnamed: 0,text,embedding
   5.96291572e-02 -4.60465327e-02 -1.42148370e-02 -9.28047299e-02
  -3.55767757e-02  1.98779792e-01  8.41141790e-02 -1.48073584e-01
   1.09543875e-02 -3.04432034e-01 -7.65778303e-01 -2.84823924e-01]"
-13,"Brooklyn,Prospect Heights,Underhill Avenue & Park Place,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,308,35,,,77,3509,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 1.78027257e-01 -8.27784538e-02 -2.29334742e-01 -2.34858945e-01
+"Brooklyn,Prospect Heights,Underhill Avenue & Park Place,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,308,35,,,77,3509,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 1.78027257e-01 -8.27784538e-02 -2.29334742e-01 -2.34858945e-01
   1.96556568e-01 -1.75591722e-01  1.84440792e-01 -1.28363267e-01
  -7.76121914e-02 -1.90672204e-02  2.72907853e-01 -1.56178623e-01
   1.91615343e-01  1.51073605e-01 -2.15117201e-01 -6.37668669e-02
@@ -1151,7 +1151,7 @@ Unnamed: 0,text,embedding
   3.47656935e-01  3.09201747e-01  2.48275802e-01  1.81232676e-01
   1.74971968e-01 -4.36430067e-01  4.72439945e-01  1.29641399e-01
  -1.41707033e-01 -1.95706457e-01 -1.71794981e-01 -1.17556810e-01]"
-14,"Manhattan,Morningside Heights,SW Corner of West 114th Street & Amsterdam Avenue,S/W West 114th Street & Amsterdam Avenue,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,109,7,40.80545915,-73.96220095,26,3593,""{'type': 'Point', 'coordinates': [-73.96220095, 40.80545915]}"",4.0,23.0,17.0,12422.0,37.0,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[-0.06038049 -0.02713519 -0.15926448  0.09159075 -0.13323283 -0.3546718
+"Manhattan,Morningside Heights,SW Corner of West 114th Street & Amsterdam Avenue,S/W West 114th Street & Amsterdam Avenue,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,109,7,40.80545915,-73.96220095,26,3593,""{'type': 'Point', 'coordinates': [-73.96220095, 40.80545915]}"",4.0,23.0,17.0,12422.0,37.0,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[-0.06038049 -0.02713519 -0.15926448  0.09159075 -0.13323283 -0.3546718
  -0.05928198  0.09497161  0.02669595 -0.10206729 -0.04029784 -0.14358708
  -0.01255828  0.10415347 -0.33667964  0.1132395  -0.1336884  -0.16294515
   0.0806243   0.31593     0.07480355 -0.01770234  0.12915696  0.1358294
@@ -1215,7 +1215,7 @@ Unnamed: 0,text,embedding
  -0.04064725  0.28856993  0.10779779 -0.32855183 -0.21800104  0.07705639
   0.43206495  0.14565751 -0.09561442 -0.0164291   0.07902434 -0.27693662
   0.0295529  -0.02430197  0.00085952 -0.00522946 -0.5445823   0.00702595]"
-15,"Queens,Astoria (Central),SW Corner of 33rd Street & 31st Avenue,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,401,22,,,114,3324,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 0.24786505 -0.11604421 -0.22679621 -0.18617827 -0.02021004 -0.23445396
+"Queens,Astoria (Central),SW Corner of 33rd Street & 31st Avenue,,Department of Sanitation,Year Round,24/7,www.nyc.gov/smartcomposting,401,22,,,114,3324,,,,,,,""Download the app to access bins. Accepts all food scraps, including meat and dairy. Do not leave food scraps outside of bin!"",,,","[ 0.24786505 -0.11604421 -0.22679621 -0.18617827 -0.02021004 -0.23445396
   0.18363513 -0.14906943 -0.03656592  0.04161891  0.1740025  -0.2274099
   0.19628632  0.14885448 -0.22824663 -0.03721107  0.0745431  -0.04493941
  -0.08714141  0.2727828   0.27022025  0.02401234 -0.10134437  0.14244834
@@ -1279,7 +1279,7 @@ Unnamed: 0,text,embedding
  -0.1353473   0.38199374  0.09761295 -0.21802053 -0.19875976 -0.35837004
   0.33165506  0.3892353   0.2525136   0.07695188  0.28705835 -0.5212925
   0.40102723  0.1537844  -0.0599967  -0.05712107 -0.11482914 -0.13770819]"
-16,"Queens,Long Island City-Hunters Point,The Connected Chef,49-09 5th Street and 49th Avenue,The Connected Chef,Year Round,Fridays and Saturdays (Start Time: Fridays-8:30AM/Saturdays-9AM - End Time:  Fridays-3:30PM/Saturdays-2PM),,402,26,40.74387,-73.9562,108,3374,""{'type': 'Point', 'coordinates': [-73.9562, 40.74387]}"",3.0,33.0,66.0,16858.0,53.0,""Not accepted: meat, bones, or dairy"",,,","[ 0.20261596 -0.351788    0.07514024  0.08975837 -0.3066073  -0.30928934
+"Queens,Long Island City-Hunters Point,The Connected Chef,49-09 5th Street and 49th Avenue,The Connected Chef,Year Round,Fridays and Saturdays (Start Time: Fridays-8:30AM/Saturdays-9AM - End Time:  Fridays-3:30PM/Saturdays-2PM),,402,26,40.74387,-73.9562,108,3374,""{'type': 'Point', 'coordinates': [-73.9562, 40.74387]}"",3.0,33.0,66.0,16858.0,53.0,""Not accepted: meat, bones, or dairy"",,,","[ 0.20261596 -0.351788    0.07514024  0.08975837 -0.3066073  -0.30928934
   0.04557618 -0.21400273 -0.1443733  -0.04662941  0.06667307 -0.2982706
  -0.24896616  0.10518979 -0.09191306 -0.20489688  0.12065736 -0.18138857
   0.34825462 -0.05437911 -0.00385325  0.01922842 -0.23942056  0.21658742
@@ -1343,7 +1343,7 @@ Unnamed: 0,text,embedding
   0.20106092  0.42474163 -0.00933484  0.05065648 -0.18800749  0.18200642
   0.49973914 -0.2796453   0.11242887 -0.32882863  0.23815165  0.26336855
   0.32235706  0.08784235 -0.0503566  -0.24795984 -0.5709269  -0.18721327]"
-17,"Brooklyn,Sunset Park (West),Los Colibríes Community Garden,""219 34th Street, Brooklyn 11232"",Los Colibríes Community Garden,Year Round,Sundays (Start Time: 11:00 AM - End Time:  4:00 PM),https://www.facebook.com/jardin34/,307,38,40.6547305,-74.0018481,72,3608,""{'type': 'Point', 'coordinates': [-74.0018481, 40.6547305]}"",2.0,7.0,45.0,13515.0,9.0,""Not accepted: meat, bones, or dairy"",,,","[ 0.35446078 -0.2450498   0.05914323  0.00159151  0.09361233 -0.15636255
+"Brooklyn,Sunset Park (West),Los Colibríes Community Garden,""219 34th Street, Brooklyn 11232"",Los Colibríes Community Garden,Year Round,Sundays (Start Time: 11:00 AM - End Time:  4:00 PM),https://www.facebook.com/jardin34/,307,38,40.6547305,-74.0018481,72,3608,""{'type': 'Point', 'coordinates': [-74.0018481, 40.6547305]}"",2.0,7.0,45.0,13515.0,9.0,""Not accepted: meat, bones, or dairy"",,,","[ 0.35446078 -0.2450498   0.05914323  0.00159151  0.09361233 -0.15636255
   0.0674239  -0.11068189 -0.01296993  0.09099613 -0.0284133  -0.2527445
  -0.04456795  0.21498497 -0.24566609 -0.06448004  0.01237617 -0.2032468
  -0.13022588  0.27712983  0.09010043  0.23868412  0.16275507  0.11416184
@@ -1407,7 +1407,7 @@ Unnamed: 0,text,embedding
   0.04961912  0.17341025 -0.00344722 -0.02451687 -0.06054252 -0.23261106
   0.30561894 -0.22784731 -0.08783048 -0.08918577 -0.04480467 -0.05505323
   0.03780873 -0.20867817 -0.1449089  -0.03371803 -0.41051343 -0.32552326]"
-18,"Manhattan,Lower East Side,Grand Street & Clinton Street,Grand Street & Clinton Street,NYC Compost Project Hosted by LES Ecology Center,Year Round,Mondays (Start Time: 9:00 AM - End Time:  2:00 PM),https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,103,1,40.715889,-73.986861,7,3287,""{'type': 'Point', 'coordinates': [-73.986861, 40.715889]}"",4.0,32.0,4.0,11723.0,70.0,""Not accepted: meat, bones, or dairy"",,,","[ 0.09529468 -0.11849243  0.03076798 -0.05105898  0.29430354 -0.4797082
+"Manhattan,Lower East Side,Grand Street & Clinton Street,Grand Street & Clinton Street,NYC Compost Project Hosted by LES Ecology Center,Year Round,Mondays (Start Time: 9:00 AM - End Time:  2:00 PM),https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,103,1,40.715889,-73.986861,7,3287,""{'type': 'Point', 'coordinates': [-73.986861, 40.715889]}"",4.0,32.0,4.0,11723.0,70.0,""Not accepted: meat, bones, or dairy"",,,","[ 0.09529468 -0.11849243  0.03076798 -0.05105898  0.29430354 -0.4797082
  -0.25447488 -0.11955824 -0.18430886  0.3592595   0.15994926  0.07188198
  -0.01561347  0.3723294  -0.30821338 -0.04760157 -0.23203042 -0.41671145
   0.29401928  0.4107964   0.21919896  0.25908133  0.07263117  0.27718574
@@ -1471,7 +1471,7 @@ Unnamed: 0,text,embedding
  -0.1497598   0.16787899  0.11625963 -0.02157287 -0.00786205 -0.14603032
   0.39547604  0.18488811  0.02303504 -0.12676406  0.01944226  0.01765448
   0.18399785  0.08556223 -0.12459564 -0.08175532 -0.386264    0.00097374]"
-19,"Bronx,Tremont,La Familia Verde Farmer's Market,Tremont Ave between LaFontaine and Arthur Ave (Tremont Park),Volunteers at La Familia Verde Farmers Market,July- November 16 2021,Tuesdays (Start Time: 8:00 AM - End Time:  2:00 PM),http://www.lafamiliaverde.org/,206,15,40.846468,-73.894107,48,3754,""{'type': 'Point', 'coordinates': [-73.894107, 40.846468]}"",5.0,22.0,31.0,10935.0,35.0,""Visit the Center Farm stand to drop off your food scraps. Not accepted: meat, bones, or dairy"",,,","[ 0.11404423 -0.15734728 -0.11252655 -0.00663513 -0.03460277 -0.206702
+"Bronx,Tremont,La Familia Verde Farmer's Market,Tremont Ave between LaFontaine and Arthur Ave (Tremont Park),Volunteers at La Familia Verde Farmers Market,July- November 16 2021,Tuesdays (Start Time: 8:00 AM - End Time:  2:00 PM),http://www.lafamiliaverde.org/,206,15,40.846468,-73.894107,48,3754,""{'type': 'Point', 'coordinates': [-73.894107, 40.846468]}"",5.0,22.0,31.0,10935.0,35.0,""Visit the Center Farm stand to drop off your food scraps. Not accepted: meat, bones, or dairy"",,,","[ 0.11404423 -0.15734728 -0.11252655 -0.00663513 -0.03460277 -0.206702
  -0.13622847 -0.18911272  0.07976759  0.06044849  0.56319046 -0.05118862
  -0.04146133  0.07358941 -0.28779823 -0.01278625  0.0090113  -0.2596963
   0.07294483  0.23504673  0.0103953  -0.26460308 -0.2219454   0.05491029
