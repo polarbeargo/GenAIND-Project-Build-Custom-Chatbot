@@ -135,4 +135,8 @@ Click on the pipeline name to open it, and then click on the "Create Run" button
 
 - Run on Kubernetes:
   - [pipeline.py](pipeline.py)
-  - [generative_ai_pipeline.yaml](generative_ai_pipeline.yaml)
+  - [generative_ai_pipeline.yaml](generative_ai_pipeline.yaml)  
+  - Compare Prompts:  
+  [![YouTube Video](https://img.youtube.com/vi/1-3un7hQVWY/0.jpg)](https://youtu.be/1-3un7hQVWY)
+
+
