@@ -113,7 +113,9 @@ minikube dashboard
 python pipline.py
 ```
 
-- Upload the `generative_ai_pipeline.yaml` file to the Kubeflow Pipelines dashboard.
+- Upload the `generative_ai_pipeline.yaml` file to the Kubeflow Pipelines dashboard. 
+
+- Build and push your own custom docker image to docker hub. 
 
 - After uploading, we should see the pipeline listed in the dashboard.
 Click on the pipeline name to open it, and then click on the "Create Run" button.
