@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from dotenv import load_dotenv
 from comet_ml import Experiment
-from query import get_completion, custom_prompt, simple_prompt
+from query import get_completion, custom_prompt, simple_prompt, questions, chain_of_thoughts
 
 # Load environment variables
 load_dotenv()
@@ -24,13 +24,12 @@ def main():
     df = load_data(EMBEDDINGS_OUTPUT_PATH)
     df['embedding'] = df['embedding'].apply(
         lambda x: [float(val) for val in x.strip('[]').split()])
-    questions_responses = {
-        "Your question here": (None, None)
-    }
+
     experiment = create_experiment()
-    for question in questions_responses.keys():
+    for question in questions:
         custom_response = get_completion(custom_prompt(question, df))
         basic_response = get_completion(simple_prompt(question))
+        chain_of_thoughts(question)
         experiment.log_text(question, metadata={"type": "question"})
         experiment.log_text(
             basic_response, metadata={

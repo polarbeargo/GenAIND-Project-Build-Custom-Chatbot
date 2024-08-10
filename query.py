@@ -151,7 +151,7 @@ def get_only_response(response):
     return get_completion(messages)
 
 
-def chain_of_thoughts():
+def chain_of_thoughts(questions):
     chatbot_responses = []
     for question in questions:
         messages = [
