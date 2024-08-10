@@ -1,12 +1,12 @@
+from comet_ml import Experiment
 import os
 import pandas as pd
 from dotenv import load_dotenv
-from comet_ml import Experiment
 from query import generate_embeddings
 
 # Load environment variables
-load_dotenv()
-COMET_API_KEY = os.getenv("COMET_API_KEY")
+load_dotenv('my_config.env')
+COMET_API_KEY = os.getenv('COMET_API_KEY')
 
 DATA_FILE_PATH = 'data/nyc_food_scrap_drop_off_sites.csv'
 SAMPLE_OUTPUT_PATH = "data/data_wrangling_sample.csv"

@@ -1,11 +1,11 @@
+from comet_ml import Experiment
 import os
 import pandas as pd
 from dotenv import load_dotenv
-from comet_ml import Experiment
 from query import get_completion, custom_prompt, simple_prompt, questions, chain_of_thoughts
 
 # Load environment variables
-load_dotenv()
+load_dotenv('my_config.env')
 COMET_API_KEY = os.getenv("COMET_API_KEY")
 EMBEDDINGS_OUTPUT_PATH = 'embeddings.csv'
 

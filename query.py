@@ -7,8 +7,9 @@ from comet_llm import Span, end_chain, start_chain
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
+load_dotenv('my_config.env')
 COMET_API_KEY = os.getenv("COMET_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 MODEL_NAME = 'paraphrase-MiniLM-L6-v2'
 prompt = """
