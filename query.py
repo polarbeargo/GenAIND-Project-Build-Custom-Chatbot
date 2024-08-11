@@ -163,30 +163,29 @@ def chain_of_thoughts(questions):
                     food_scrap_drop_off_sites=prompt,
                     Location=prompt)}]
 
-    response = get_completion(messages)
-    chatbot_responses.append(response)
+        response = get_completion(messages)
+        chatbot_responses.append(response)
 
-    start_chain(
-        inputs={"question": question},
-        api_key=COMET_API_KEY,
-    )
+        start_chain(
+            inputs={"question": question},
+            api_key=COMET_API_KEY,
+        )
 
-    with Span(
-        category="reasoning",
-        name="chain-of-thought",
-        inputs={"user_question": question},
-    ) as span:
-        span.set_outputs(outputs={"full_response": response})
+        with Span(
+            category="reasoning",
+            name="chain-of-thought",
+            inputs={"user_question": question},
+        ) as span:
+            span.set_outputs(outputs={"full_response": response})
 
-    with Span(
-        category="response-extraction",
-        inputs={
-            "user_question": question,
-            "full_response": response,
-        },
-    ) as span:
-        final_response = get_only_response(response)
-        span.set_outputs(outputs={"final_response": final_response})
+        with Span(
+            category="response-extraction",
+            inputs={
+                "user_question": question,
+                "full_response": response,
+            },
+        ) as span:
+            final_response = get_only_response(response)
+            span.set_outputs(outputs={"final_response": final_response})
 
-    end_chain(outputs={"final_response": final_response})
-    print(final_response)
+        end_chain(outputs={"final_response": final_response})
