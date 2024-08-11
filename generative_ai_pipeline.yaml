@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Workflow
 metadata:
   generateName: generative-ai-project-pipeline-
-  annotations: {pipelines.kubeflow.org/kfp_sdk_version: 0.5.1, pipelines.kubeflow.org/pipeline_compilation_time: '2024-08-10T13:54:26.649424',
+  annotations: {pipelines.kubeflow.org/kfp_sdk_version: 0.5.1, pipelines.kubeflow.org/pipeline_compilation_time: '2024-08-11T09:10:42.904907',
     pipelines.kubeflow.org/pipeline_spec: '{"description": "A pipeline for the Generative
       AI project with Comet-ML integration", "name": "Generative AI Project Pipeline"}'}
   labels: {pipelines.kubeflow.org/kfp_sdk_version: 0.5.1}
@@ -12,19 +12,19 @@ spec:
   - name: compare-prompts
     container:
       command: [python, compare_prompts.py]
-      image: catzzzlol/Project-Build-Custom-Chatbot
+      image: catzzzlol/project-build-custom-chatbot
     metadata:
       labels: {pipelines.kubeflow.org/pipeline-sdk-type: kfp}
   - name: custom-query
     container:
       command: [python, custom_query.py]
-      image: catzzzlol/Project-Build-Custom-Chatbot
+      image: catzzzlol/project-build-custom-chatbot
     metadata:
       labels: {pipelines.kubeflow.org/pipeline-sdk-type: kfp}
   - name: data-wrangling
     container:
       command: [python, data_wrangling.py]
-      image: catzzzlol/Project-Build-Custom-Chatbot
+      image: catzzzlol/project-build-custom-chatbot
     metadata:
       labels: {pipelines.kubeflow.org/pipeline-sdk-type: kfp}
   - name: generative-ai-project-pipeline
