@@ -62,7 +62,7 @@ The `pipline.py` defines constants for file paths to make it easier to manage an
 
 - `data_wrangling_op()`: This function defines a data wrangling operation. It loads the data, processes it (e.g., cleaning text), generates embeddings, and logs the dataset to Comet. The embeddings are crucial for many AI applications, as they convert text into numerical representations that models can understand.
 
-- `custom_query_op()`: Defines a custom query operation that asks a specific question about the data and logs the response.
+- `custom_query_op()`: Defines a custom query operation that asks a specific question about the data and logs the response. By using `cosine_similarity` we can effectively compare the similarity between the embedding of each text in the DataFrame (emb) and the embedding of the input question (embeddings_array).
 
 - `compare_prompts_op()`: This function is intended to compare responses from different prompts such as from `the chain of thoughts`, allowing us to evaluate the effectiveness of various queries.
 
