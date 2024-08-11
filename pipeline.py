@@ -6,7 +6,7 @@ def data_wrangling_op() -> dsl.ContainerOp:
     """Define the data wrangling operation."""
     return dsl.ContainerOp(
         name='Data Wrangling',
-        image='catzzzlol/Project-Build-Custom-Chatbot',
+        image='catzzzlol/project-build-custom-chatbot',
         command=['python', 'data_wrangling.py'],
     )
 
@@ -15,7 +15,7 @@ def custom_query_op() -> dsl.ContainerOp:
     """Define the custom query operation."""
     return dsl.ContainerOp(
         name='Custom Query',
-        image='catzzzlol/Project-Build-Custom-Chatbot',
+        image='catzzzlol/project-build-custom-chatbot',
         command=['python', 'custom_query.py'],
     )
 
@@ -24,7 +24,7 @@ def compare_prompts_op() -> dsl.ContainerOp:
     """Define the compare prompts operation."""
     return dsl.ContainerOp(
         name='Compare Prompts',
-        image='catzzzlol/Project-Build-Custom-Chatbot',
+        image='catzzzlol/project-build-custom-chatbot',
         command=['python', 'compare_prompts.py'],
     )
 
