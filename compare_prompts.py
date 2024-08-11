@@ -26,10 +26,10 @@ def main():
         lambda x: [float(val) for val in x.strip('[]').split()])
 
     experiment = create_experiment()
+    chain_of_thoughts(questions)
     for question in questions:
         custom_response = get_completion(custom_prompt(question, df))
         basic_response = get_completion(simple_prompt(question))
-        chain_of_thoughts(question)
         experiment.log_text(question, metadata={"type": "question"})
         experiment.log_text(
             basic_response, metadata={
