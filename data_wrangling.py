@@ -29,7 +29,7 @@ def save_sample(df: pd.DataFrame, output_path: str) -> None:
 
 
 def main():
-    file_path = 'data/nyc_food_scrap_drop_off_sites.csv'
+    file_path = DATA_FILE_PATH
     with open(file_path, 'r') as file:
         next(file)
         lines = [line.strip() for line in file]
